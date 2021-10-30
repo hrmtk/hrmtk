@@ -5,8 +5,9 @@ I am a self-taught enthusiast :fire:
 - 🔭 I’m currently working on looking for a web developer job.
 - 🌱 I’m currently learning DS & Algorithms.
 - 🤔 I’m looking for help with getting hired.
+- 🐣 I've finished [CS50](https://cs50.harvard.edu/certificates/e32a940f-347c-431b-b036-b9556169bd8a), [CS50W](https://cs50.harvard.edu/certificates/f6ac2f57-ccf7-4d9c-a081-d978f823ea5a) and [CS50AI](https://cs50.harvard.edu/certificates/1749160d-5177-4701-a146-7a38f7445892). Yay!
 - 💌 How to reach me: hirohrmtk@gmail.com
-- ⚡ Fun fact: Sometimes I make ORIGAMI.
+- 😸 Fun fact: Sometimes I make ORIGAMI.
 
 #### Top Technologies
 
