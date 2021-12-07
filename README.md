@@ -20,7 +20,7 @@ A self-taught enthusiast :fire:
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 
 ### My Favorite Project Repos
-- [Natural Event Tracker](https://hrmtk-naturaleventtracker.netlify.app/)
+- [Natural Event Tracker](https://github.com/hrmtk/natural-event-tracker)
 - [Manabit](https://github.com/hrmtk/django-quiz-app)
 - [Auctions](https://github.com/hrmtk/django-commerce)
 
