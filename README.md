@@ -20,9 +20,9 @@ A self-taught enthusiast :fire:
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 
 ### My Favorite Project Repos
+- [Portfolio](https://github.com/hrmtk/portfolio2022-react)
 - [Natural Event Tracker](https://github.com/hrmtk/natural-event-tracker)
 - [Manabit](https://github.com/hrmtk/django-quiz-app)
-- [Auctions](https://github.com/hrmtk/django-commerce)
 
 ### I've Finished
 - [CS50](https://cs50.harvard.edu/certificates/e32a940f-347c-431b-b036-b9556169bd8a)
